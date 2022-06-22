@@ -12,13 +12,11 @@
 - 📫 How to reach me **sharukh.g.velupillai@gmail.com** or **sharukhvelupillai@pursuit.org**
 
 
- ⚡ Fun fact #1
+ ⚡ Fun Facts About Me
 - **I want to build a mini factory to self-publish and manufacture three table-top games that I have created**
 
-⚡ Fun fact #2
 - **I am working on a computer-based game for the board game called "End Times: Survive" to sharpen my coding skills in a fun way**
 
-⚡ Fun fact #3
 - **I am learning QML to develop apps on the Ubuntu Touch Phone Operating System**
 
 
