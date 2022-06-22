@@ -1,21 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sharukh G. Velupillai</h1>
-<h3 align="center">A forever student of knowledge learning Full-Stack Web Development</h3>
+<h3 align="center">A student of knowledge learning Full-Stack Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p>
 
-- 🔭 I’m currently working on **Table-Top Games Ecommerce Website**
+- 🔭 I’m currently working on an **Ecommerce Website**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS** at PURSUIT
 
-- 👯 I’m looking to collaborate on **Resources for Learning**
-
-- 💬 Ask me about **Magic the Gathering, Aquariums/Terrariums/Vivariums**
+- 💬 Ask me about **Magic the Gathering, Aquariums, Terrariums, Vivariums, Paludariums**
 
 - 📫 How to reach me **sharukh.g.velupillai@gmail.com**
 
-- ⚡ Fun fact **I am working on publishing three Table-Top Games**
+ ⚡ Fun fact #1
+- **I want to build a mini factory to self-publish and manufacture three table-top games that I have created**
 
-<h3 align="left">Connect with me:</h3>
+⚡ Fun fact #2
+- **I am working on a computer-based game for the board game called "End Times: Survive" to sharpen my coding skills in a fun way**
+
+⚡ Fun fact #3
+- **I am learning QML to develop apps on the Ubuntu Touch Phone Operating System**
+
+
 <p align="left">
 </p>
 
