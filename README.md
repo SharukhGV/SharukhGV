@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **Magic the Gathering, Aquariums, Terrariums, Vivariums, Paludariums**
 
-- 📫 How to reach me **sharukh.g.velupillai@gmail.com**
+- 📫 How to reach me **sharukh.g.velupillai@gmail.com** or **sharukhvelupillai@pursuit.org**
+
 
  ⚡ Fun fact #1
 - **I want to build a mini factory to self-publish and manufacture three table-top games that I have created**
