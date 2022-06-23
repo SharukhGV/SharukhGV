@@ -12,12 +12,11 @@
 - 📫 How to reach me **sharukh.g.velupillai@gmail.com** or **sharukhvelupillai@pursuit.org**
 
 
- ⚡ Fun Facts About Me
-- **I want to build a mini factory to self-publish and manufacture three table-top games that I have created**
+ #### ⚡ Fun Facts About Me
 
-- **I am working on a computer-based game for the board game called "End Times: Survive" to sharpen my coding skills in a fun way**
-
-- **I am learning QML to develop apps on the Ubuntu Touch Phone Operating System**
+- My favorite video game is Kirby64: The Crystal Shards by HAL Laboratory/Nintendo 
+- My favorite non-religious book is The Little Prince, by Antoine de Saint-Exupéry
+- My favorite movie is 'Nausicaa of the Valley of the Wind' by Studio Ghibli
 
 
 <p align="left">
