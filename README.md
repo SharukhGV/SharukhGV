@@ -14,9 +14,9 @@
 
  #### ⚡ Fun Facts About Me
 
-- My favorite video game is Kirby64: The Crystal Shards by HAL Laboratory/Nintendo 
-- My favorite non-religious book is The Little Prince, by Antoine de Saint-Exupéry
-- My favorite movie is 'Nausicaa of the Valley of the Wind' by Studio Ghibli
+- My favorite video game is **Kirby64: The Crystal Shards**, by HAL Laboratory/Nintendo 
+- My favorite non-religious book is **The Little Prince**, by Antoine de Saint-Exupéry
+- My favorite movie is **Nausicaa of the Valley of the Wind** by Studio Ghibli
 
 
 <p align="left">
