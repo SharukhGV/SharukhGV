@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p>
 
-- 🌱 I’m currently learning **NodeJS** at PURSUIT
+- 🌱 I’m currently learning **NodeJS, React, Redux, PostgreSQL** at PURSUIT
 
 - 🔭 I’m currently working on an **Ecommerce Website**
 
