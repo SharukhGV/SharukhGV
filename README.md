@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharukh G. Velupillai</h1>
-<h3 align="center">A student of knowledge learning Full-Stack Web Development</h3>
+<h3 align="center">A student of knowledge</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p>
 
