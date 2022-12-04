@@ -5,12 +5,14 @@
 
 - 🌱 I’m currently learning **NodeJS, React, Redux, PostgreSQL** at PURSUIT
 
-- 🔭 I’m currently working on an **Android App & Ecommerce Site**
+- 🔭 I’m currently working on an **Building Fun Projects**
+
+- 🍃 My first complete front-end React Application is available at this netlify deployment link: [Ghibli App](resilient-raindrop-f95ed8.netlify.app)
 
 - ✨ My first Android App is available here: [End Times Pocket](https://play.google.com/store/apps/details?id=com.veluplay.endtimespocket)
 
      (It is a token counter app made for a physical board game that I am working on)
-
+     
 - 📫 How to reach me **sharukh.g.velupillai@gmail.com** or **sharukhvelupillai@pursuit.org**
 
 
