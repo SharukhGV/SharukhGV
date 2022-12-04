@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on an **Building Fun Projects**
 
-- 🍃 My first complete front-end React Application is available at this netlify deployment link: [Ghibli App](resilient-raindrop-f95ed8.netlify.app)
+- 🍃 My first complete front-end React Application is available at this netlify deployment link: [Ghibli App](https://resilient-raindrop-f95ed8.netlify.app/)
 
 - ✨ My first Android App is available here: [End Times Pocket](https://play.google.com/store/apps/details?id=com.veluplay.endtimespocket)
 
