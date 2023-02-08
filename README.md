@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, React, Redux, PostgreSQL** at PURSUIT
+- 🌱 I’m currently learning **NodeJS, React.js, PostgreSQL, Deployment of Full-Stack Applications** at PURSUIT
 
 - 🔭 I’m currently working on an **Building Fun Projects**
 
 - 🍃 My first complete front-end React Application is available at this netlify deployment link: [Ghibli App](https://resilient-raindrop-f95ed8.netlify.app/)
+
+- 👨‍👩‍👦‍👦 My first Full-Stack Deployed Group project is available at this link: [Snack-a-Log App](https://snack-a-log-frontend.netlify.app/snacks/11)
 
 - ✨ My first Android App is available here: [End Times Pocket](https://play.google.com/store/apps/details?id=com.veluplay.endtimespocket)
 
