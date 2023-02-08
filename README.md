@@ -9,7 +9,7 @@
 
 - 🍃 My first complete front-end React Application is available at this netlify deployment link: [Ghibli App](https://resilient-raindrop-f95ed8.netlify.app/)
 
-- 👨‍👩‍👦‍👦 My first Full-Stack Deployed Group project is available at this link: [Snack-a-Log App](https://snack-a-log-frontend.netlify.app/snacks/11)
+- 👨‍👩‍👦‍👦 My first Full-Stack Deployed Group project is available at this link: [Snack-a-Log App](https://snack-a-log-frontend.netlify.app/)
 
 - ✨ My first Android App is available here: [End Times Pocket](https://play.google.com/store/apps/details?id=com.veluplay.endtimespocket)
 
