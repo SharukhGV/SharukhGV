@@ -5,15 +5,17 @@
 
 - 🌱 I’m currently learning **NodeJS, React.js, PostgreSQL, Deployment of Full-Stack Applications** at PURSUIT
 
-- 🔭 I’m currently working on an **Building Fun Projects**
+- 🔭 I’m currently working on **Building Fun Projects**
 
 - 🍃 My first complete front-end React Application is available at this netlify deployment link: [Ghibli App](https://resilient-raindrop-f95ed8.netlify.app/)
+
+- 💰 My first complete Full Stack Application albeit no database is available at this netlify deployment link: [Budget App](https://budget-log-app.onrender.com/)
+
+- 💭 My first solo-built Full-Stack Application with PostgreSQL database is available at this netlify deployment link: [Dream App](https://chic-kitsune-7beb31.netlify.app/dreams)
 
 - 👨‍👩‍👦‍👦 My first Full-Stack Deployed Group project is available at this link: [Snack-a-Log App](https://snack-a-log-frontend.netlify.app/)
 
 - ✨ My first Android App is available here: [End Times Pocket](https://play.google.com/store/apps/details?id=com.veluplay.endtimespocket)
-
-     (It is a token counter app made for a physical board game that I am working on)
      
 - 📫 How to reach me **sharukh.g.velupillai@gmail.com** or **sharukhvelupillai@pursuit.org**
 
