@@ -11,7 +11,7 @@
 
 - 💰 My first complete Full Stack Application albeit no database is available at this netlify deployment link: [Budget App](https://budget-log-app.onrender.com/)
 
-- 💭 My first solo-built Full-Stack Application with PostgreSQL database is available at this netlify deployment link: [Dream App](https://chic-kitsune-7beb31.netlify.app/dreams)
+- 💭 My first solo-built Full-Stack Application with PostgreSQL database is available at this netlify deployment link: [Dream App](https://chic-kitsune-7beb31.netlify.app/)
 
 - 👨‍👩‍👦‍👦 My first Full-Stack Deployed Group project is available at this link: [Snack-a-Log App](https://snack-a-log-frontend.netlify.app/)
 
