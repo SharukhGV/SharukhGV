@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, React.js, PostgreSQL, Deployment of Full-Stack Applications** at PURSUIT
 
-- 🔭 I’m currently working on **Building Fun Projects**
+- 🔭 I’m currently working on **[Building Fun Projects](https://main--lovely-sunburst-06b441.netlify.app/)**
 
 - 🍃 My first complete front-end React Application is available at this netlify deployment link: [Ghibli App](https://resilient-raindrop-f95ed8.netlify.app/)
 
