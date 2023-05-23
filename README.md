@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, React.js, PostgreSQL, Deployment of Full-Stack Applications** at PURSUIT
 
-- 🔭 I’m currently working on **[SGVcreations Tracker](https://sgvcreations.com/)** , a front-end application to supplement the Celestial Respiration Card Game. 
+- 🔭 I’m currently working on **[SGVcreations Tracker](https://sgvcreations.com/)** , a front-end (mobile) application to supplement the Celestial Respiration Card Game. 
 
 <!-- - 🍃 My first complete front-end React Application is available at this netlify deployment link: [Ghibli App](https://resilient-raindrop-f95ed8.netlify.app/) -->
 
