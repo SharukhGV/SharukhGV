@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sharukh G. Velupillai</h1>
 <h3 align="center">A student of knowledge</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p> -->
 
 - 🌱 I’m currently learning **NodeJS, React.js, PostgreSQL, Deployment of Full-Stack Applications** at PURSUIT
 
-- 🔭 I’m currently working on **[SGVcreations Tracker](https://sgvcreations.com/)** , a front-end (mobile) application to supplement the Celestial Respiration Card Game. 
+- 🔭 A Frontend supplementary app with local storage for the card game Celestial Respiration: **[SGVcreations Tracker](https://sgvcreations.com/)**  [![Netlify Status](https://api.netlify.com/api/v1/badges/b5d85469-87ef-45b6-92ca-9d1d08316cb9/deploy-status)](https://app.netlify.com/sites/lovely-sunburst-06b441/deploys)
 
-<!-- - 🍃 My first complete front-end React Application is available at this netlify deployment link: [Ghibli App](https://resilient-raindrop-f95ed8.netlify.app/) -->
+<!-- - 🍃 My first front-end React Application: [Ghibli App](https://resilient-raindrop-f95ed8.netlify.app/) -->
 
 <!-- - 💰 My first complete Full Stack Application albeit no database is available at this netlify deployment link: [Budget App](https://budget-log-app.onrender.com/) -->
 
-- 💭 My Full-Stack Application with PostgreSQL database is available at this link: [Dream App](https://chic-kitsune-7beb31.netlify.app/) (wait a few seconds for database to load)
+- 💭 A Full-Stack Application with PostgreSQL database and Firebase User Authentication:: **[Dream App](https://chic-kitsune-7beb31.netlify.app/)** [![Netlify Status](https://api.netlify.com/api/v1/badges/2ad6764e-9c1e-495a-acf4-6f53c87e0325/deploy-status)](https://app.netlify.com/sites/chic-kitsune-7beb31/deploys)
 
 <!-- - 👨‍👩‍👦‍👦 My first Full-Stack Deployed Group project is available at this link: [Snack-a-Log App](https://snack-a-log-frontend.netlify.app/)
  -->
