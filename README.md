@@ -3,8 +3,8 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p> -->
 
-- 🌱 I’m currently learning **NodeJS, React.js, PostgreSQL, Deployment of Full-Stack Applications** at PURSUIT
-- 📈 I’m currently working on **[Dream Journal](https://dreamjournal.bio)** backend
+- 🌱 I’m currently preparing for my Job Search with PURSUIT
+- 📈 I’m currently working on **[Dream Journal](https://dreamjournal.bio)** : local storage React frontend application
 - 🗺️ My first app using Google Maps places markers on a map when address is inputted. **[Hive of Heaven](https://sharukhgv.github.io/Hive-of-Heaven---Vanilla-JS/)**
 
 - 🔭 A Frontend supplementary app with local storage for the card game Celestial Respiration: **[SGVcreations Tracker](https://sgvcreations.com/)**  [![Netlify Status](https://api.netlify.com/api/v1/badges/b5d85469-87ef-45b6-92ca-9d1d08316cb9/deploy-status)](https://app.netlify.com/sites/lovely-sunburst-06b441/deploys)
