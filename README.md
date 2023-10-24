@@ -2,11 +2,11 @@
 <h3 align="center">A Full Stack Software Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p> -->
-
+- 🚧 I’m currently working on Full Stack Project **[Emergency Response FrontEnd](https://resplendent-lolly-1f0af9.netlify.app/)** :An Public Bulletin to help those in imminent need
 - 🚧 I’m currently working on Full Stack Project using PostgreSQL **[Dream Log App](https://chic-kitsune-7beb31.netlify.app/
 )** : integrating Auth0 Authentication and Authorization
 - 📈 A project I am proud of is **[Dream Journal](https://dreamjournal.bio)** : local storage React frontend application
-- 🗺️ My first app using Google Maps places markers on a map when address is inputted. **[Hive of Heaven](https://sharukhgv.github.io/Hive-of-Heaven---Vanilla-JS/)**
+- 🗺️ My first app using Vanilla JS and Google Maps API **[Hive of Heaven](https://sharukhgv.github.io/Hive-of-Heaven---Vanilla-JS/)**
 
 - 🔭 A Frontend supplementary app with local storage for the card game Celestial Respiration: **[SGVcreations Tracker](https://sgvcreations.com/)**  [![Netlify Status](https://api.netlify.com/api/v1/badges/b5d85469-87ef-45b6-92ca-9d1d08316cb9/deploy-status)](https://app.netlify.com/sites/lovely-sunburst-06b441/deploys)
 
