@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Software Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p> -->
-- 🚧 I’m currently working on Full Stack Project **[Find Spot](https://findspot.dev/)** :A Public Bulletin to help those in imminent need
+- 🚧 I’m currently working on Full Stack Project **[Find Spot](https://findspot.dev/)** :A Public Bulletin to help those in dire need
 - 🚧 I’m currently working on Full Stack Project using PostgreSQL **[Dream Log App](https://chic-kitsune-7beb31.netlify.app/
 )** : integrating Auth0 Authentication and Authorization
 - 📈 A project I am proud of is **[Dream Journal](https://dreamjournal.bio)** : local storage React frontend application
