@@ -2,14 +2,7 @@
 <h3 align="center">A Full Stack Software Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p> -->
-- 🚧 I’m currently working on Full Stack Project **[Find Spot](https://findspot.dev/)** :A Public Bulletin to help those in dire need
-- 🚧 I’m currently working on Full Stack Project using PostgreSQL **[Dream Log App](https://chic-kitsune-7beb31.netlify.app/
-)** : integrating Auth0 Authentication and Authorization
-- 📈 A project I am proud of is **[Dream Journal](https://dreamjournal.bio)** : local storage React frontend application
-- 🚧 My first app using Vanilla JS and Google Maps API **[Hive of Heaven](https://sharukhgv.github.io/Hive-of-Heaven---Vanilla-JS/)**
-
-- 🔭 A Frontend supplementary app with local storage for the card game Celestial Respiration: **[SGVcreations Tracker](https://sgvcreations.com/)**  [![Netlify Status](https://api.netlify.com/api/v1/badges/b5d85469-87ef-45b6-92ca-9d1d08316cb9/deploy-status)](https://app.netlify.com/sites/lovely-sunburst-06b441/deploys)
-
+- 🚧 I’m currently working on Full Stack Project **[Find Spot](https://findspot.dev/)** : A Public Bulletin to help those in dire need
 <!-- - 🍃 My first front-end React Application: [Ghibli App](https://resilient-raindrop-f95ed8.netlify.app/) -->
 
 <!-- - 💰 My first complete Full Stack Application albeit no database is available at this netlify deployment link: [Budget App](https://budget-log-app.onrender.com/) -->
@@ -18,7 +11,6 @@
 
 <!-- - 👨‍👩‍👦‍👦 My first Full-Stack Deployed Group project is available at this link: [Snack-a-Log App](https://snack-a-log-frontend.netlify.app/)
  -->
-- ✨ My first Android App is available here: [End Times Pocket](https://play.google.com/store/apps/details?id=com.veluplay.endtimespocket)
      
 - 📫 How to reach me **sharukh.g.velupillai@gmail.com** or **sharukhvelupillai@pursuit.org**
 
