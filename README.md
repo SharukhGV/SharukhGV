@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Software Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p> -->
-- 🚧 I’m currently working on transitioning my Full Stack Project **[Find Spot](https://resplendent-lolly-1f0af9.netlify.app/)** to Hive of Heaven
+<!--  🚧 I’m currently working on transitioning my Full Stack Project **[Find Spot](https://resplendent-lolly-1f0af9.netlify.app/)** to Hive of Heaven-->
 <!-- - 🍃 My first front-end React Application: [Ghibli App](https://resilient-raindrop-f95ed8.netlify.app/) -->
 
 <!-- - 💰 My first complete Full Stack Application albeit no database is available at this netlify deployment link: [Budget App](https://budget-log-app.onrender.com/) -->
