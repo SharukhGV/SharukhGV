@@ -3,6 +3,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p> -->
  🚧 I’m currently working on my Full Stack Project **[Hive of Heaven](https://hiveheaven.pro)**
+ 
+ 🏬 My frontend project is available on the Snap Store **[Dream Journal Bio](https://snapcraft.io/dream-journal-bio)**
+
 <!-- - 🍃 My first front-end React Application: [Ghibli App](https://resilient-raindrop-f95ed8.netlify.app/) -->
 
 <!-- - 💰 My first complete Full Stack Application albeit no database is available at this netlify deployment link: [Budget App](https://budget-log-app.onrender.com/) -->
