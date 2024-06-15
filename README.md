@@ -4,7 +4,18 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p> -->
  🚧 I’m currently working on my Full Stack Project **[Hive of Heaven](https://hiveheaven.pro)**
  
- 🏬 My frontend project is available on the Snap Store **[Dream Journal Bio](https://snapcraft.io/dream-journal-bio)**
+ 🏬 My frontend projects are available on the Snap Store: 
+ 
+ **Dream Journal Bio** - A dream log app to keep track of dreams you had while sleeping. 
+ 
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/dream-journal-bio)
+
+ 
+ **Simple POS** - A simple receipt and sales tracker for small businesses
+ 
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/simple-pos)
+
+
 
 <!-- - 🍃 My first front-end React Application: [Ghibli App](https://resilient-raindrop-f95ed8.netlify.app/) -->
 
