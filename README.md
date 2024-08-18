@@ -2,7 +2,10 @@
 <h3 align="center">A Full Stack Software Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p> -->
- 🚧 I’m currently working on my Full Stack Project **[Hive of Heaven](https://hiveheaven.pro)**
+ 🚧 I’m taking a Hiatus from my Full Stack Project **[Hive of Heaven](https://hiveheaven.pro)**
+ 
+ 🚧 I’m currently working on my Full Stack Project simple-pos-wdb, a POS system for small businesses with database for logging receipts and inventory management.
+
  
  🏬 My frontend projects are available on the Snap Store: 
  
@@ -11,7 +14,7 @@
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/dream-journal-bio)
 
  
- **Simple POS** - A simple receipt and sales tracker for small businesses
+ **Simple POS** - A simple receipt and sales tracker for small businesses utilizing localStorage instead of a database
  
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/simple-pos)
 
