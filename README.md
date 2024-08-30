@@ -2,9 +2,6 @@
 <h3 align="center">A Full Stack Software Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p> -->
- 🚧 I’m taking a Hiatus from my Full Stack Project **[Hive of Heaven](https://hiveheaven.pro)**
- 
- 🚧 I’m currently working on my Full Stack Project simple-pos-wdb, a POS system for small businesses with database for logging receipts and inventory management.
 
  
  🏬 My frontend projects are available on the Snap Store: 
