@@ -17,7 +17,7 @@
 
 
 
-<!-- - 🍃 My first front-end React Application: [Ghibli App](https://resilient-raindrop-f95ed8.netlify.app/) -->
+ 🍃 My first Quran React Application: [Quran App](https://flourishing-babka-86579f.netlify.app/#1) 
 
 <!-- - 💰 My first complete Full Stack Application albeit no database is available at this netlify deployment link: [Budget App](https://budget-log-app.onrender.com/) -->
 
