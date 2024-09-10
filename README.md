@@ -16,6 +16,11 @@
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/simple-pos)
 
 
+ **Simple Planner** - A simple financial planner for personal use.
+
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/simple-planner)
+
+
 
  🍃 My first Quran React Application: [Quran App](https://flourishing-babka-86579f.netlify.app/#1) 
 
