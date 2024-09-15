@@ -22,7 +22,6 @@
 
 
 
- 🍃 My first Quran React Application: [Quran App](https://flourishing-babka-86579f.netlify.app/#1) 
 
 <!-- - 💰 My first complete Full Stack Application albeit no database is available at this netlify deployment link: [Budget App](https://budget-log-app.onrender.com/) -->
 
