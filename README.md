@@ -5,6 +5,12 @@
 
  
  🏬 My frontend projects are available on the Snap Store: 
+
+  **Islam Research** - A Quran and Hadith App. 
+
+
+[![Get it from the Snap Store](https://snapcraft.io/en/light/install.svg)](https://snapcraft.io/islam-research)
+ 
  
  **Dream Journal Bio** - A dream log app to keep track of dreams you had while sleeping. 
  
@@ -18,7 +24,7 @@
 
  **Simple Planner** - A simple financial planner for personal use.
 
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/simple-planner)
+[![Get it from the Snap Store](https://snapcraft.io/en/light/install.svg)](https://snapcraft.io/simple-planner)
 
 
 
