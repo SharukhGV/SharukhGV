@@ -1,61 +1,26 @@
-<h1 align="center">Hi 👋, I'm Sharukh G. Velupillai</h1>
-<h3 align="center">A Full Stack Software Developer</h3>
+<h1 align="center">👋 Hi, I'm Sharukh G. Velupillai</h1> <h3 align="center">🌐 Full Stack Software Developer | Builder of Tools That Serve</h3> <p align="center"> <a href="mailto:sharukh.g.velupillai@gmail.com">📧 sharukh.g.velupillai@gmail.com</a> | <a href="mailto:sharukhvelupillai@pursuit.org">sharukhvelupillai@pursuit.org</a> </p>
+🚀 My Published Projects on the Snap Store
+<table> <tr> <td><strong>📘 Islam Research</strong><br/> A free Quran and Hadith app built for knowledge seekers.</td> <td> <a href="https://snapcraft.io/islam-research"> <img src="https://snapcraft.io/static/images/badges/en/snap-store-white.svg" alt="Download Islam Research" /> </a> </td> </tr> <tr> <td><strong>🌙 Dream Journal Bio</strong><br/> A personal tool to log and reflect on your dreams.</td> <td> <a href="https://snapcraft.io/dream-journal-bio"> <img src="https://snapcraft.io/static/images/badges/en/snap-store-white.svg" alt="Download Dream Journal Bio" /> </a> </td> </tr> <tr> <td><strong>🧾 Simple POS</strong><br/> A point-of-sale tracker using localStorage — ideal for small vendors.</td> <td> <a href="https://snapcraft.io/simple-pos"> <img src="https://snapcraft.io/static/images/badges/en/snap-store-white.svg" alt="Download Simple POS" /> </a> </td> </tr> <tr> <td><strong>📊 Simple Planner</strong><br/> A minimalist financial planner for personal budget tracking.</td> <td> <a href="https://snapcraft.io/simple-planner"> <img src="https://snapcraft.io/static/images/badges/en/snap-store-white.svg" alt="Download Simple Planner" /> </a> </td> </tr> </table>
+🧰 Tech Stack
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="ElectronJS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> <img src="https://www.gimp.org/images/wilbericon.svg" alt="GIMP" width="40" height="40"/> </p>
+🙋‍♂️ About Me
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharukhgv&label=Profile%20views&color=0e75b6&style=flat" alt="sharukhgv" /> </p> -->
+    🔭 I’m passionate about building tools that empower everyday users.
 
- 
- 🏬 My frontend projects are available on the Snap Store: 
+    🛠️ I love working with both frontend and backend stacks.
 
-  **Islam Research** - A Quran and Hadith App. 
+    📘 Currently expanding my expertise in Spring Boot and advanced security/authentication flows.
 
+    💡 Open to full-time roles where I can grow, contribute, and help bring powerful ideas to life.
 
-[![Get it from the Snap Store](https://snapcraft.io/en/light/install.svg)](https://snapcraft.io/islam-research)
- 
- 
- **Dream Journal Bio** - A dream log app to keep track of dreams you had while sleeping. 
- 
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/dream-journal-bio)
+🎯 Fun Facts
 
- 
- **Simple POS** - A simple receipt and sales tracker for small businesses utilizing localStorage instead of a database
- 
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/simple-pos)
+    🎮 Favorite Game: Kirby 64: The Crystal Shards
 
+    📖 Favorite Book: The Little Prince by Antoine de Saint-Exupéry
 
- **Simple Planner** - A simple financial planner for personal use.
+    🎬 Favorite Movie: Nausicaä of the Valley of the Wind by Hayao Miyazaki
 
-[![Get it from the Snap Store](https://snapcraft.io/en/light/install.svg)](https://snapcraft.io/simple-planner)
+📣 Acknowledgements
 
-
-
-
-<!-- - 💰 My first complete Full Stack Application albeit no database is available at this netlify deployment link: [Budget App](https://budget-log-app.onrender.com/) -->
-
-<!-- - 💭 A Full-Stack Application with PostgreSQL database and Firebase User Authentication:: **[Dream App](https://chic-kitsune-7beb31.netlify.app/)** [![Netlify Status](https://api.netlify.com/api/v1/badges/2ad6764e-9c1e-495a-acf4-6f53c87e0325/deploy-status)](https://app.netlify.com/sites/chic-kitsune-7beb31/deploys) -->
-
-<!-- - 👨‍👩‍👦‍👦 My first Full-Stack Deployed Group project is available at this link: [Snack-a-Log App](https://snack-a-log-frontend.netlify.app/)
- -->
-     
-- 📫 How to reach me **sharukh.g.velupillai@gmail.com** or **sharukhvelupillai@pursuit.org**
-
-
- #### ⚡ Fun Facts About Me
-
-- My favorite video game is **Kirby64: The Crystal Shards**, by HAL Laboratory/Nintendo 
-- My favorite non-religious book is **The Little Prince**, by Antoine de Saint-Exupéry
-- My favorite movie is **Nausicaa of the Valley of the Wind** by Hayao Miyazaki
-
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.gimp.org/images/wilbericon.svg" alt="gimp" width="40" height="40"/> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-
-</p>
- 
- **Acknowledgements**
- 
-[Rahul Jain](https://github.com/rahuldkjain) - [GitHub ReadMe Generator Template](https://github.com/rahuldkjain/github-profile-readme-generator)
+Thanks to Rahul Jain for the GitHub README inspiration.
