@@ -11,42 +11,7 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td><strong>🌙 Dream Journal Bio</strong><br/> A personal tool to log and reflect on your dreams.</td>
-    <td>
-      <a href="https://dreamjournalbio.netlify.app/">
-        <img src="https://img.shields.io/badge/Visit%20Site-Live-blue?style=for-the-badge" alt="Visit Dream Journal Bio" />
-      </a>
-      &nbsp;
-      <a href="https://snapcraft.io/dream-journal-bio">
-        <img src="https://snapcraft.io/static/images/badges/en/snap-store-white.svg" alt="Download Dream Journal Bio" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>📘 Islam Research</strong><br/> A free Quran and Hadith app built for knowledge seekers.</td>
-    <td>
-      <a href="https://snapcraft.io/islam-research">
-        <img src="https://snapcraft.io/static/images/badges/en/snap-store-white.svg" alt="Download Islam Research" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🧾 Simple POS</strong><br/> A point-of-sale tracker using localStorage — ideal for small vendors.</td>
-    <td>
-      <a href="https://snapcraft.io/simple-pos">
-        <img src="https://snapcraft.io/static/images/badges/en/snap-store-white.svg" alt="Download Simple POS" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>📊 Simple Planner</strong><br/> A minimalist financial planner for personal budget tracking.</td>
-    <td>
-      <a href="https://snapcraft.io/simple-planner">
-        <img src="https://snapcraft.io/static/images/badges/en/snap-store-white.svg" alt="Download Simple Planner" />
-      </a>
-    </td>
-  </tr>
+ 
 </table>
 
 🧰 Tech Stack
