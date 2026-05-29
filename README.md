@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="mailto:sharukh.g.velupillai@gmail.com"><img src="https://img.shields.io/badge/Email-sharukh.g.velupillai%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
-  <a href="https://www.instagram.com/veiledcosmos/"><img src="https://img.shields.io/badge/Instagram-@veiledcosmos-E4405F?style=flat-square&logo=instagram" alt="Instagram" /></a>
-  <a href="https://ko-fi.com/veiledcosmos"><img src="https://img.shields.io/badge/Support-Ko--fi-F16061?style=flat-square&logo=ko-fi" alt="Ko-fi" /></a>
+
 </p>
 
 ---
